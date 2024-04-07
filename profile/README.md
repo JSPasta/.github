@@ -1,5 +1,5 @@
 # JSPaste
-<a href="https://jspaste.eu"><img align="right" alt="JSPaste" src="https://jspaste.eu/logo.webp" width="100" /></a>
+<a href="https://jspaste.eu"><img align="right" alt="JSPaste" src="https://jspaste.eu/image/logo.svg" width="110" /></a>
 
 Welcome to the JSPaste organization!
 
