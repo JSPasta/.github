@@ -1,7 +1,7 @@
-# JSPaste
+# JSPasta
 <a href="https://jspaste.eu"><img align="right" alt="JSPaste" src="https://jspaste.eu/image/logo.svg" width="110" /></a>
 
-Welcome to the JSPaste organization!
+Welcome to the JSPasta organization!
 
 Useful links:
 
@@ -10,7 +10,7 @@ Useful links:
 
 More:
 
-- [Frontend source](https://github.com/jspaste/frontend)
-- [Backend source](https://github.com/jspaste/backend)
-- [Library source](https://github.com/jspaste/library)
-- [JSPaste collection](https://github.com/jspaste/awesome-jspaste)
+- [Frontend source](https://github.com/jspasta/frontend)
+- [Backend source](https://github.com/jspasta/backend)
+- [Library source](https://github.com/jspasta/library)
+- [JSPaste collection](https://github.com/jspasta/awesome-jspaste)
